@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/da38bf16bd1347578c391a7de1a126d9/artifacts
+end_time: 1742668583223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da38bf16bd1347578c391a7de1a126d9
+run_name: trusting-newt-466
+run_uuid: da38bf16bd1347578c391a7de1a126d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742668583215
+status: 4
+tags: []
+user_id: antoinedufaure

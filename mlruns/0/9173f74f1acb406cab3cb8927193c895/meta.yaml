@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/9173f74f1acb406cab3cb8927193c895/artifacts
+end_time: 1742667605846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9173f74f1acb406cab3cb8927193c895
+run_name: zealous-bug-831
+run_uuid: 9173f74f1acb406cab3cb8927193c895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742667594159
+status: 3
+tags: []
+user_id: antoinedufaure

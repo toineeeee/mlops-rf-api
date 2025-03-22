@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/546ee0f2761f4febba9df4413c7321ae/artifacts
+end_time: 1742668710720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 546ee0f2761f4febba9df4413c7321ae
+run_name: grandiose-mouse-148
+run_uuid: 546ee0f2761f4febba9df4413c7321ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742668701033
+status: 3
+tags: []
+user_id: antoinedufaure
