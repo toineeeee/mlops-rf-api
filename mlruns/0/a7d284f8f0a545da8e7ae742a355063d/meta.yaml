@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/a7d284f8f0a545da8e7ae742a355063d/artifacts
+deleted_time: 1742671559403
+end_time: 1742671413181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a7d284f8f0a545da8e7ae742a355063d
+run_name: rebellious-stoat-719
+run_uuid: a7d284f8f0a545da8e7ae742a355063d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742671411657
+status: 4
+tags: []
+user_id: antoinedufaure

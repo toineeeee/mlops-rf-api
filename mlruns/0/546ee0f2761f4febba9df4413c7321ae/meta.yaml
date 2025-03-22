@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
 run_id: 546ee0f2761f4febba9df4413c7321ae
-run_name: grandiose-mouse-148
+run_name: LSTM1
 run_uuid: 546ee0f2761f4febba9df4413c7321ae
 source_name: ''
 source_type: 4

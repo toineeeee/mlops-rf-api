@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/5b56b4bf463640ddaf8bea59bcf9ec99/artifacts
+end_time: 1742669401467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b56b4bf463640ddaf8bea59bcf9ec99
+run_name: RandomForest1
+run_uuid: 5b56b4bf463640ddaf8bea59bcf9ec99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742669396492
+status: 3
+tags: []
+user_id: antoinedufaure

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/a993b238510446a495644328a0cfec69/artifacts
+end_time: 1742671651837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a993b238510446a495644328a0cfec69
+run_name: LSTM 4
+run_uuid: a993b238510446a495644328a0cfec69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742671641657
+status: 3
+tags: []
+user_id: antoinedufaure

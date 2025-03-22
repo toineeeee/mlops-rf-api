@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/da38bf16bd1347578c391a7de1a126d9/artifacts
+deleted_time: 1742669480574
 end_time: 1742668583223
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: da38bf16bd1347578c391a7de1a126d9
 run_name: trusting-newt-466
 run_uuid: da38bf16bd1347578c391a7de1a126d9

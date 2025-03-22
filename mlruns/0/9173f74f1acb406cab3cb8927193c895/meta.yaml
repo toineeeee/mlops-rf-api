@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/9173f74f1acb406cab3cb8927193c895/artifacts
+deleted_time: 1742669480575
 end_time: 1742667605846
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9173f74f1acb406cab3cb8927193c895
 run_name: zealous-bug-831
 run_uuid: 9173f74f1acb406cab3cb8927193c895
