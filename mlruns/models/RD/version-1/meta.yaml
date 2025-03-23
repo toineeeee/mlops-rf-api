@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742760143425
+current_stage: None
+description: ''
+last_updated_timestamp: 1742760143425
+name: RD
+run_id: bec86cc02fb8488e81270c47f66889b1
+run_link: ''
+source: mlflow-artifacts:/740723959520207728/bec86cc02fb8488e81270c47f66889b1/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/740723959520207728/bec86cc02fb8488e81270c47f66889b1/artifacts/random_forest_model
+user_id: null
+version: 1
