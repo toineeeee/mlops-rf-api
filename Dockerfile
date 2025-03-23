@@ -2,10 +2,9 @@ FROM python:3.10-slim
 
 WORKDIR /app
 
-COPY . /app
-COPY rf_api/model /app/model
+COPY rf_api /app
 
-RUN pip install --no-cache-dir -r rf_api/requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 EXPOSE 5000
 
