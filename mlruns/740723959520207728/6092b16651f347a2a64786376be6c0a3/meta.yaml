@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/740723959520207728/6092b16651f347a2a64786376be6c0a3/artifacts
+deleted_time: 1742754824530
+end_time: 1742754591111
+entry_point_name: ''
+experiment_id: '740723959520207728'
+lifecycle_stage: deleted
+run_id: 6092b16651f347a2a64786376be6c0a3
+run_name: bald-auk-959
+run_uuid: 6092b16651f347a2a64786376be6c0a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742754587281
+status: 3
+tags: []
+user_id: antoinedufaure

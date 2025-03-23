@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/740723959520207728/3498f5e071994938840766129728a254/artifacts
+end_time: 1742754423486
+entry_point_name: ''
+experiment_id: '740723959520207728'
+lifecycle_stage: active
+run_id: 3498f5e071994938840766129728a254
+run_name: adorable-crane-725
+run_uuid: 3498f5e071994938840766129728a254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742754419522
+status: 4
+tags: []
+user_id: antoinedufaure

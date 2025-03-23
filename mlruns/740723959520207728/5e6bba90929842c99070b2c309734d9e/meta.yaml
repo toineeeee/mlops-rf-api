@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/740723959520207728/5e6bba90929842c99070b2c309734d9e/artifacts
+end_time: 1742754508517
+entry_point_name: ''
+experiment_id: '740723959520207728'
+lifecycle_stage: active
+run_id: 5e6bba90929842c99070b2c309734d9e
+run_name: RandomForest1
+run_uuid: 5e6bba90929842c99070b2c309734d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742754505121
+status: 3
+tags: []
+user_id: antoinedufaure

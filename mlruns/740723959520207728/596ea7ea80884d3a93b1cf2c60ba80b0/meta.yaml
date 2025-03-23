@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/740723959520207728/596ea7ea80884d3a93b1cf2c60ba80b0/artifacts
+deleted_time: 1742754873049
+end_time: 1742754720637
+entry_point_name: ''
+experiment_id: '740723959520207728'
+lifecycle_stage: deleted
+run_id: 596ea7ea80884d3a93b1cf2c60ba80b0
+run_name: languid-dog-657
+run_uuid: 596ea7ea80884d3a93b1cf2c60ba80b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742754717063
+status: 3
+tags: []
+user_id: antoinedufaure

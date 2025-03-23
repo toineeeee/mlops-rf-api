@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/0467999e38e44992b6979f189ae313c2/artifacts
+deleted_time: 1742754300019
+end_time: 1742754185014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0467999e38e44992b6979f189ae313c2
+run_name: orderly-trout-784
+run_uuid: 0467999e38e44992b6979f189ae313c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742754181309
+status: 3
+tags: []
+user_id: antoinedufaure

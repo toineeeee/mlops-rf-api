@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/f0534d7f4201444da4366feaa6029a30/artifacts
+deleted_time: 1742754175540
+end_time: 1742753961816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f0534d7f4201444da4366feaa6029a30
+run_name: sedate-mink-653
+run_uuid: f0534d7f4201444da4366feaa6029a30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742753957879
+status: 3
+tags: []
+user_id: antoinedufaure
