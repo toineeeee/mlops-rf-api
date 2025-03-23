@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/aa34987a3dac4bc4aef1ec73e2c6b79e/artifacts
+deleted_time: 1742753514270
+end_time: 1742753214712
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: aa34987a3dac4bc4aef1ec73e2c6b79e
+run_name: powerful-croc-842
+run_uuid: aa34987a3dac4bc4aef1ec73e2c6b79e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742753210035
+status: 3
+tags: []
+user_id: antoinedufaure

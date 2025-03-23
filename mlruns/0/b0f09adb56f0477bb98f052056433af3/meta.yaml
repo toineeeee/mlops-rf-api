@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/b0f09adb56f0477bb98f052056433af3/artifacts
+deleted_time: 1742753514276
+end_time: 1742752862318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b0f09adb56f0477bb98f052056433af3
+run_name: sneaky-horse-885
+run_uuid: b0f09adb56f0477bb98f052056433af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742752862312
+status: 4
+tags: []
+user_id: antoinedufaure

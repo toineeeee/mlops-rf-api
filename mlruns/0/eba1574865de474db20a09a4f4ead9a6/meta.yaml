@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/eba1574865de474db20a09a4f4ead9a6/artifacts
+deleted_time: 1742753514271
+end_time: 1742752962898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: eba1574865de474db20a09a4f4ead9a6
+run_name: skittish-bat-795
+run_uuid: eba1574865de474db20a09a4f4ead9a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742752960029
+status: 3
+tags: []
+user_id: antoinedufaure

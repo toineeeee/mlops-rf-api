@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/c5827befb42e4e2ca405f9a0fae34ccd/artifacts
+deleted_time: 1742753514276
+end_time: 1742752916057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c5827befb42e4e2ca405f9a0fae34ccd
+run_name: skillful-mole-126
+run_uuid: c5827befb42e4e2ca405f9a0fae34ccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742752902029
+status: 3
+tags: []
+user_id: antoinedufaure

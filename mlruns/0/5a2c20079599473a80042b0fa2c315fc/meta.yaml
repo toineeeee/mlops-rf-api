@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/antoinedufaure/Documents/GitHub/ProjetMLOPS1/mlruns/0/5a2c20079599473a80042b0fa2c315fc/artifacts
+deleted_time: 1742753514272
+end_time: 1742752934590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5a2c20079599473a80042b0fa2c315fc
+run_name: fortunate-moose-276
+run_uuid: 5a2c20079599473a80042b0fa2c315fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742752925932
+status: 3
+tags: []
+user_id: antoinedufaure
