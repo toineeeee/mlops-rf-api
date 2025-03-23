@@ -5,7 +5,7 @@ WORKDIR /app
 COPY . /app
 COPY rf_api/model /app/model
 
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r rf_api/requirements.txt
 
 EXPOSE 5000
 
